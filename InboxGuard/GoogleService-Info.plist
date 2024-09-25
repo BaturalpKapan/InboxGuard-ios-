@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1052822605543-i5nsp4j21qt4s5jlt1mqpc6m1cuqbfn8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1052822605543-i5nsp4j21qt4s5jlt1mqpc6m1cuqbfn8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_xAaawhc9s8LwVBrz20roEKp5VmBDZMo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1052822605543</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>baturalpKapan.InboxGuard</string>
+	<key>PROJECT_ID</key>
+	<string>inboxguard-ac236</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inboxguard-ac236.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1052822605543:ios:da03d8e0bb28a1c28b9c42</string>
+</dict>
+</plist>
